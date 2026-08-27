@@ -1,8 +1,8 @@
-# Sejam Bem Vindos, Eu sou Diego Medeiros 👋
+# Sejam Bem Vindos, 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🔄 Em transição para Tecnologia
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) no UNIPÊ** e estou construindo minha nova trajetória profissional na área de Tecnologia.
+Meu nome é Diego Medeiros, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) no UNIPÊ** e estou construindo minha nova trajetória profissional na área de Tecnologia.
 
 Sou formado em **Engenharia Mecânica pela Universidade Federal da Paraíba (UFPB)**, com especialização em **Engenharia de Segurança do Trabalho**, e possuo experiência profissional em administração e finanças, tendo atuado por 3 anos como **Gerente Administrativo**.
 
