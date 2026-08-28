@@ -1,4 +1,4 @@
-# Sejam Bem Vindos, 👋
+# Sejam Bem Vindos 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🔄 Em transição para Tecnologia
 
