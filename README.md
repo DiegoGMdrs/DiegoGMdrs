@@ -1,4 +1,6 @@
+<div align="center">
 <img src="Banner_Github.png" alt="Banner do Meu Projeto" width="100%">
+</div>
 
 # Sejam Bem Vindos 👋
 
