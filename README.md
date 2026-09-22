@@ -1,3 +1,5 @@
+<img src="Banner_Github.png" alt="Banner do Meu Projeto" width="100%">
+
 # Sejam Bem Vindos 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🔄 Em transição para Tecnologia
