@@ -55,9 +55,15 @@ Tecnologias que pretendo explorar conforme avanço na graduação e nos estudos:
 
 ## 📂 Projetos
 
-Estou no início da minha jornada na programação e, por enquanto, ainda não possuo projetos publicados.
-
 Este espaço será utilizado para registrar minha evolução, começando com projetos simples e aumentando gradualmente sua complexidade conforme avanço nos estudos.
+
+Apothecary Codex
+
+<img src="https://github.com/DiegoGMdrs/apothecary-notebook-web-app/blob/main/Assets/Timeline/Projeto_aptcodex_tm2.png" width=60% aligntext=center />
+
+"The Apothecary's Codex" é um projeto de desenvolvimento web *front-end* concebido como um códice botânico interativo, pertencente a um herborista e boticário itinerante. O projeto combina interesses pessoais do autor com desenvolvimento web, conhecimento botânico, pesquisa histórica e narrativa visual para criar algo que não parece tanto um site tradicional, mas sim um diário de campo vivo.
+
+
 
 **Em breve:**
 
