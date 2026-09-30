@@ -59,9 +59,8 @@ Este espaço será utilizado para registrar minha evolução, começando com pro
 
 1. Apothecary Codex
 <p align=center>
-<img src="https://github.com/DiegoGMdrs/apothecary-notebook-web-app/blob/main/Assets/Timeline/Projeto_aptcodex_tm2.png" width=60%/>
+<p align="center"> <a href="https://diegogmdrs.github.io/apothecary-notebook-web-app/"> <img src="https://github.com/DiegoGMdrs/apothecary-notebook-web-app/blob/main/Assets/Timeline/Projeto_aptcodex_tm2.png" width="60%" /> </a> </p>
 </p>
-
 "The Apothecary's Codex" é um projeto de desenvolvimento web *front-end* concebido como um códice botânico interativo, pertencente a um herborista e boticário itinerante. O projeto combina interesses pessoais do autor com desenvolvimento web, conhecimento botânico, pesquisa histórica e narrativa visual para criar algo que não parece tanto um site tradicional, mas sim um diário de campo vivo.
 
 
