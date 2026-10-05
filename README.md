@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Banner_Github.png" alt="Banner do Meu Projeto" width="100%">
+<img src="Banner_Github_small.png" alt="Banner do Meu Projeto" width="100%">
 </div>
 
 # Sejam Bem Vindos 👋
