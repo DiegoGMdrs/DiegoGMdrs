@@ -94,7 +94,7 @@ Minha trajetória profissional combina formação em engenharia, experiência em
 - 💼 **3 anos de experiência em Administração e Finanças**
 - 👔 **Experiência como Gerente Administrativo**
 
-A experiência profissional anterior me proporcionou conhecimentos em **organização, gestão, processos, tomada de decisão e resolução de problemas**, competências que pretendo levar para minha nova carreira em Tecnologia.
+A experiência profissional anterior me proporcionou desenvolver uma boa capacidade analítica e lógica, além de conhecimentos em **organização, gestão, processos, tomada de decisão e resolução de problemas**, competências que pretendo levar para minha nova carreira em Tecnologia.
 
 ---
 
