@@ -57,7 +57,12 @@ Tecnologias que pretendo explorar conforme avanço na graduação e nos estudos:
 
 Este espaço será utilizado para registrar minha evolução, começando com projetos simples e aumentando gradualmente sua complexidade conforme avanço nos estudos.
 
-1. Apothecary Codex
+1. EventHub
+<p align="center"><img width="661" height="488" alt="image" src="https://github.com/user-attachments/assets/44676d5a-904c-47a6-a140-3214e5e77f6e" /></p>
+<p>"EventHub." é um Projeto Acadêmico desenvolvido para a disciplina de FrontEnd e Desenvolvimento Web. O projeto apresenta uma interface responsiva para descoberta de eventos e compra de ingressos, com categorias, destaques e áreas demonstrativas de login e cadastro.
+Tecnologias: HTML, CSS, JavaScript, Swiper, Lucide e Toastify.</p> 
+   
+2.Apothecary Codex
 <p align=center>
 <p align="center"> <a href="https://diegogmdrs.github.io/apothecary-notebook-web-app/"> <img src="https://github.com/DiegoGMdrs/apothecary-notebook-web-app/blob/main/Assets/Timeline/Projeto_aptcodex_tm2.png" width="60%" /> </a> </p>
 </p>
